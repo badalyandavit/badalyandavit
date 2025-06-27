@@ -9,7 +9,7 @@
 
 - 🛠️ **Current Occupation:** Junior Specialist @ Central Bank of Armenia
 - 🎓 **Education:** Data Science Student @ American University of Armenia  
-- 🌱 **Currently Learning:** _(Mathematical Applications in Machine Learning, Quantum Computing)_  
+- 🌱 **Currently Learning:** _(Advanced Mathematical Applications and Proofs in Machine Learning, Quantum Computing)_  
 - 🥅 2025 Goals: Publish researches on optimal objective and cost functions for FX forecasting with regression models.
 ---
 
@@ -18,8 +18,10 @@
 <!-- Replace with your actual projects -->
 | Project | Description | Link |
 | ------- | ----------- | ---- |
-| FX-Modeling | AMD-USD exchange rate forecasting with ARIMA, GBM, Kalman Filter | [Repo](https://github.com/your-username/fx-modeling) |
-| Penguin Classifier | Haskell + ML dashboard using Streamly | [Repo](https://github.com/your-username/penguin-classification) |
+| FX-Modeling | AMD-USD exchange rate forecasting with Lasso, ARIMA, GBM, Kalman Filter | [Repo](https://github.com/badalyandavit/AMD-USD-Exchange-Rate-Modeling/) |
+| Agentic RAG Development | Agentic RAG system for analizing tour information, preserving history and performing question answering | [Repo](https://github.com/badalyandavit/Agentic-RAG-for-Tour-Concerts) |
+| Evolutionary Models Analysis | Performed efficient analysis of biological models, performed comprehensive EDA | [Repo](https://github.com/badalyandavit/EvolutionaryModel) |
+| Comparative Analysis of AI models in Monopoly | Developed many Monte-Carlo based models, as well as a couple of Reinforcement Learning models. Proposed new model frameworks | [Repo](https://github.com/badalyandavit/aua-ai-group-project) |
 
 ---
 
@@ -35,16 +37,5 @@
 - *The Elements of Statistical Learning* by Hastie, Tibshirani & Friedman  
 
 ---
-
-## 📫 How to Reach Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
-- 📧 Email: your.email@example.com  
-- ⚡ Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-> "Data is the new oil, and code is the refinery."  
-> — Your Favorite Quote
 
 <!-- Feel free to add more sections: Blog, Certifications, Achievements, Hobbies, etc. -->
