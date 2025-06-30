@@ -28,13 +28,14 @@
 ## 📚 Books
 
 ### Must-Read Technical Books
-- **Pattern Recognition and Machine Learning** by Christopher M. Bishop  
-- **Time Series Analysis: Forecasting and Control** by Box, Jenkins & Reinsel  
-- **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron
+- **Time Series Analysis: Forecasting and Control** by Box, Jenkins & Reinsel
+- **Artificial Intelligence: A Modern Approach, 4th US ed.** by Stuart Russell and Peter Norvig
 
 ### Currently Reading
+- *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron
 - *Deep Learning* by Ian Goodfellow, Yoshua Bengio, Aaron Courville  
-- *The Elements of Statistical Learning* by Hastie, Tibshirani & Friedman  
+- *The Elements of Statistical Learning* by Hastie, Tibshirani & Friedman
+- *Quantum Computing and QUantum Information* by Nielsen Chuang 
 
 ---
 
