@@ -18,6 +18,7 @@
 <!-- Replace with your actual projects -->
 | Project | Description | Link |
 | ------- | ----------- | ---- |
+| Portfolio Modeling | Developed a market-free (beta < 0.15) portfolio with high Sharpe Ratio (1.9+). Developed an economic-regime switching gate. Currently working on incorporating WVAP, Volatility Modeling, and IB API integrations | N/A |
 | FX-Modeling | AMD-USD exchange rate forecasting with Lasso, ARIMA, GBM, Kalman Filter | [Repo](https://github.com/badalyandavit/AMD-USD-Exchange-Rate-Modeling/) |
 | Agentic RAG Development | Agentic RAG system for analizing tour information, preserving history and performing question answering | [Repo](https://github.com/badalyandavit/Agentic-RAG-for-Tour-Concerts) |
 | Evolutionary Models Analysis | Performed efficient analysis of biological models, performed comprehensive EDA | [Repo](https://github.com/badalyandavit/EvolutionaryModel) |
