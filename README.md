@@ -32,11 +32,12 @@
 ### Must-Read Technical Books
 - **Time Series Analysis: Forecasting and Control** by Box, Jenkins & Reinsel
 - **Artificial Intelligence: A Modern Approach, 4th US ed.** by Stuart Russell and Peter Norvig
+- **A Practical Guide to Quantitative Finance Interviews** by Xinfeng Zhou
 
 ### Currently Reading
 - *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron
 - *Deep Learning* by Ian Goodfellow, Yoshua Bengio, Aaron Courville  
 - *The Elements of Statistical Learning* by Hastie, Tibshirani & Friedman
-- *Quantum Computing and QUantum Information* by Nielsen Chuang 
+- *Quantum Computing and Quantum Information* by Nielsen Chuang 
 
 ---
