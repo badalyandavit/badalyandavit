@@ -20,7 +20,7 @@
 | Project | Description | Link |
 | ------- | ----------- | ---- |
 | Portfolio Modeling | Developed a market-free (beta < 0.15) portfolio with high Sharpe Ratio (1.9+). Developed an economic-regime switching gate. Currently working on incorporating WVAP, Volatility Modeling, and IB API integrations | N/A |
-| FX-Modeling | AMD-USD exchange rate forecasting with Lasso, ARIMA, Boosting, Kalman Filter, and Greeks Modeling | [Repo](https://github.com/badalyandavit/AMD-USD-Exchange-Rate-Modeling/) |
+| FX-Modeling | AMD-USD exchange rate forecasting with Lasso, ARIMA, Boosting, Kalman Filter, and Greeks Modeling. Achieved 1.99+ Sharpe Ratio under high round-trip cost assumption. Working on generalization of FX rates forecasting using market premium rates. | [Repo](https://github.com/badalyandavit/AMD-USD-Exchange-Rate-Modeling/) |
 | Agentic RAG Development | Agentic RAG system for analizing tour information, preserving history and performing question answering | [Repo](https://github.com/badalyandavit/Agentic-RAG-for-Tour-Concerts) |
 | Evolutionary Models Analysis | Performed efficient analysis of biological models, performed comprehensive EDA | [Repo](https://github.com/badalyandavit/EvolutionaryModel) |
 | Comparative Analysis of AI models in Monopoly | Developed many Monte-Carlo based models, as well as a couple of Reinforcement Learning models. Proposed new model frameworks. Consistently beat the proposed "strong rule-based" model developed by USC professors by a small margin. | [Repo](https://github.com/badalyandavit/aua-ai-group-project) |
