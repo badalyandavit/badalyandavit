@@ -9,7 +9,7 @@
 
 - 🛠️ **Current Occupation:** Junior Specialist @ Central Bank of Armenia
 - 🎓 **Education:** Data Science Student @ American University of Armenia  
-- 🌱 **Currently Learning:** _(Advanced Mathematical Applications and Proofs in Machine Learning, Quantum Computing)_  
+- 🌱 **Currently Learning:** _Advanced Mathematical Applications and Proofs in Machine Learning, Quantum Computing_  
 - 🥅 2025 Goals: Publish researches on optimal objective and cost functions for FX forecasting with regression models.
 ---
 
