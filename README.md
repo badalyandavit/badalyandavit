@@ -10,7 +10,7 @@
 - 🛠️ **Current Occupation:** Junior Specialist @ Central Bank of Armenia
 - 🎓 **Education:** Data Science Student @ American University of Armenia (AUA)
 - 🌱 **Currently Learning:** _Advanced Mathematical Applications and Proofs in Machine Learning, Quantum Computing_  
-- 🥅 **2025 Goals**: Publish researches on optimal objective and cost functions for FX forecasting with regression models
+- 🥅 **2025 Goals**: Publish researches on optimal objective and cost functions for FX forecasting with regression models and macroeconomic variables (case study of Armenia)
 - 🏆 **Achievements**: AUA Academic Scholarship Recepient, 62nd MIPT Math Olympiad First Place Diploma Recepient
 ---
 
@@ -20,7 +20,7 @@
 | Project | Description | Link |
 | ------- | ----------- | ---- |
 | Portfolio Modeling | Developed a market-free (beta < 0.15) portfolio with high Sharpe Ratio (1.9+). Developed an economic-regime switching gate. Currently working on incorporating WVAP, Volatility Modeling, and IB API integrations | N/A |
-| FX-Modeling | AMD-USD exchange rate forecasting with Lasso, ARIMA, GBM, Kalman Filter, and Greeks Modeling | [Repo](https://github.com/badalyandavit/AMD-USD-Exchange-Rate-Modeling/) |
+| FX-Modeling | AMD-USD exchange rate forecasting with Lasso, ARIMA, Boosting, Kalman Filter, and Greeks Modeling | [Repo](https://github.com/badalyandavit/AMD-USD-Exchange-Rate-Modeling/) |
 | Agentic RAG Development | Agentic RAG system for analizing tour information, preserving history and performing question answering | [Repo](https://github.com/badalyandavit/Agentic-RAG-for-Tour-Concerts) |
 | Evolutionary Models Analysis | Performed efficient analysis of biological models, performed comprehensive EDA | [Repo](https://github.com/badalyandavit/EvolutionaryModel) |
 | Comparative Analysis of AI models in Monopoly | Developed many Monte-Carlo based models, as well as a couple of Reinforcement Learning models. Proposed new model frameworks. Consistently beat the proposed "strong rule-based" model developed by USC professors by a small margin. | [Repo](https://github.com/badalyandavit/aua-ai-group-project) |
@@ -40,5 +40,3 @@
 - *Quantum Computing and QUantum Information* by Nielsen Chuang 
 
 ---
-
-<!-- Feel free to add more sections: Blog, Certifications, Achievements, Hobbies, etc. -->
