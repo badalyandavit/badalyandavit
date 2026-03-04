@@ -2,7 +2,7 @@ Research Focus:
 - Natural Language Processing (CoT, Reasoning, RLHF)
 - Neural Architecture Search via Reinforcement Learning
 
-Interests:
+Other Interests:
 - Game Theory
 - Financial Modeling (market-free portfolios, liquidity, hedging)
 
