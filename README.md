@@ -1,5 +1,5 @@
 Research Focus:
-- Natural Language Processing (CoT, Reasoning, RLHF)
+- Natural Language Processing (Test-Time Scaling, CoT, Reasoning, RLHF)
 - Neural Architecture Search via Reinforcement Learning
 
 Other Interests:
